@@ -69,24 +69,21 @@ main {
 
   .menue {
     float: none;
-    width: 90%;
+    width: 100%;
     margin-right: 0;
     margin-bottom: 20px;
   }
 
   .menue-img1 {
-    height: 220px;
-    width: 90%;
+    width: 100%;
   }
 
   .menue-img2 {
-    height: 220px;
-    width: 90%;
+    width: 100%;
   }
 
   .menue-img3 {
-    height: 220px;
-    width: 90%;
+    width: 100%;
   }
 
   .menue:last-child {
@@ -95,11 +92,11 @@ main {
   }
 
   .step-title {
-    width: 90%;
+    width: 100%;
   }
 
   .step-text {
-    width: 90%;
+    width: 100%;
   }
 
 }
